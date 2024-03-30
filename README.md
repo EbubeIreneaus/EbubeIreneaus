@@ -4,7 +4,7 @@ Hi 👋 My name is Okigwe Ebube Ireneaus
 FullStack Web Developer
 -----------------------
 
-Am a full stack developer well-versed in a spectrum of technologies, including JavaScript, HTML, CSS, Vue.js, Nuxt.js, Tailwind CSS, python(Django) and PHP, I bring a wealth of experience in both refining existing web pages and crafting new ones from the ground up. My comprehensive skill set allows me to seamlessly integrate frontend elements while ensuring optimal user experience and visual coherence across your website.
+Am a full stack developer well-versed in a spectrum of technologies, including JavaScript, HTML, CSS, Vue.js, Nuxt.js, Reactjs, Nextjs, Tailwind CSS, python(Django), MYSQL and PHP, I bring a wealth of experience in both refining existing web pages and crafting new ones from the ground up. My comprehensive skill set allows me to seamlessly integrate frontend elements while ensuring optimal user experience and visual coherence across your website.
 
 * 🌍  I'm based in Abuja, Nigeria
 * 🖥️  See my portfolio at [ireneaus](http://ireneaus.netlify.app)
