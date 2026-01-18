@@ -1,15 +1,13 @@
-Hi 👋 My name is Okigwe Ebube Ireneaus
+Hi 👋 My name is Ebube Ireneaus
 =====================================
 
-**Fullstack Developer**
+**Test Automation Engineer**
 
-Frontend Developer specializing in Vue.js, Nuxt.js, React.js, and Tailwind CSS. Experienced in building fast, mobile-responsive, and SEO-optimized web applications. Practical background delivering production-ready solutions, integrating APIs, and improving UI/UX for business impact.
+Junior QA / Test Automation Engineer with hands-on E2E testing, browser automation, and CI pipelines. Former Full Stack Developer (2+ years). Skilled in Playwright, JavaScript, Python, GitHub Actions, and building reliable, maintainable test automation systems.
 
 * 🌍  I'm based in **Abuja, Nigeria**
-* 🖥️  Portfolio → https://rankwithebube.com
 * ✉️  Contact → **ireneaus.ebube@gmail.com**
-* 🚀  Currently working on **Business Analytic Application**
-* 🧠  Learning **C# .NET Core**
+* 🧠  Learning **Devops Concept*
 * ⚡ Fun fact: **I love building products that solve real problems**
 
 ---
