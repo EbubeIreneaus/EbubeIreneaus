@@ -3,11 +3,15 @@ Hi 👋 My name is Ebube Ireneaus
 
 **Test Automation Engineer**
 
-QA / Test Automation Engineer with hands-on E2E testing, browser automation, and CI pipelines. Former Full Stack Developer (2+ years). Skilled in Playwright, JavaScript, Python, GitHub Actions, and building reliable, maintainable test automation systems.
+I build systems that take repetitive work off your plate.
+
+I focus on backend and automation handling things like emails, data, and daily operations so they run on their own without constant attention.
+
+The goal is simple: fewer manual tasks, fewer errors, and more time for you to focus on what matters.
 
 * 🌍  I'm based in **Abuja, Nigeria**
 * ✉️  Contact → **ireneaus.ebube@gmail.com**
-* 🧠  Learning **Devops Concept*
+* 🧠  Learning **Devops Cloud Deployment*
 * ⚡ Fun fact: **I love building products that solve real problems**
 
 ---
