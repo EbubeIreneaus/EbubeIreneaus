@@ -1,58 +1,116 @@
-Hi 👋 My name is Ebube Ireneaus
-=====================================
+<!-- Header -->
+<div align="center">
 
-**Test Automation Engineer**
+```
+███████╗██████╗ ██╗   ██╗██████╗ ███████╗
+██╔════╝██╔══██╗██║   ██║██╔══██╗██╔════╝
+█████╗  ██████╔╝██║   ██║██████╔╝█████╗  
+██╔══╝  ██╔══██╗██║   ██║██╔══██╗██╔══╝  
+███████╗██████╔╝╚██████╔╝██████╔╝███████╗
+╚══════╝╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
+```
 
-I build systems that take repetitive work off your plate.
+### Hi, I'm Ebube Irenaeus 👋
+**Python AI & Automation Engineer**
 
-I focus on backend and automation handling things like emails, data, and daily operations so they run on their own without constant attention.
+*I build systems that work while you sleep.*
 
-The goal is simple: fewer manual tasks, fewer errors, and more time for you to focus on what matters.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ireneaus)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EbubeIreneaus)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://ireneaus.zephyops.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireneaus.ebube@gmail.com)
 
-* 🌍  I'm based in **Abuja, Nigeria**
-* ✉️  Contact → **ireneaus.ebube@gmail.com**
-* 🧠  Learning **Devops Cloud Deployment*
-* ⚡ Fun fact: **I love building products that solve real problems**
-
----
-
-### 🛠️ Skills
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue.js" /></a>
-<a href="https://nuxt.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxt.js" /></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React.js" /></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
+</div>
 
 ---
 
-### 🌐 Socials
+## 🧠 What I Do
 
-<p align="left">
-<a href="https://github.com/EbubeIreneaus" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/ireneaus" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-<a href="https://x.com/EbubeIreneaus" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" /></a>
-</p>
+> *Business owners shouldn't be drowning in repetitive tasks — they should be building.*
+> *That's why I automate the rest.*
+
+I design and build **AI-powered automation systems** that eliminate repetitive work from business operations.
+From intelligent agents to workflow automation, I turn manual, time-consuming processes into systems that run themselves.
+
+- 🤖 **AI Agents** that qualify leads, respond to customers, and make decisions autonomously
+- 🔍 **Web Scraping & Market Intelligence** bots that gather and compare real-time data
+- ⚙️ **Workflow Automation** that connects your tools and runs your processes 24/7
+- 🚀 **FastAPI backends** that make your automation accessible via clean, production-ready APIs
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ Tech Stack
 
-<a href="https://github.com/EbubeIreneaus">
-  <img src="https://github-readme-stats.vercel.app/api?username=EbubeIreneaus&show_icons=true&hide_border=true&theme=tokyonight" />
-</a>
+**AI & Automation**
 
-<a href="https://github.com/EbubeIreneaus">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbubeIreneaus&theme=tokyonight&hide_border=true" />
-</a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6E40C9?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-<a href="https://github.com/EbubeIreneaus">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbubeIreneaus&layout=compact&theme=tokyonight&hide_border=true" />
-</a>
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Scraping & Browser Automation**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logoColor=white)
+
+**Frontend**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 AI Lead Qualification & Automated Reply System
+> An intelligent agent that qualifies incoming leads based on custom criteria and automatically sends personalized responses — removing the need for manual email triage entirely.
+
+**Stack:** Python · LangChain · FastAPI · OpenAI  
+**Impact:** Eliminates manual lead screening and response delay
+
+---
+
+### 📊 Market Price Comparison Bot
+> A web scraping bot that monitors competitor product prices across multiple websites and compares them against internal company pricing — giving businesses real-time market intelligence.
+
+**Stack:** Python · Playwright · BeautifulSoup · FastAPI  
+**Impact:** Turns hours of manual research into instant automated reports
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Ebube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbubeIreneaus&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbubeIreneaus&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4500)
+
+</div>
+
+---
+
+## 💼 Open to Work
+
+I'm currently open to **remote roles** with startups, e-commerce companies, or any team that wants to stop doing manually what a machine can do better.
+
+**What I'm looking for:**
+- Remote-first teams
+- Problems worth automating
+- A place to grow while delivering real value
+
+📬 Reach me at **ireneaus.ebube@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/ireneaus)
+
+---
+
+<div align="center">
+
+*"The best automation is the one that makes people forget it's there."*
+
+</div>
