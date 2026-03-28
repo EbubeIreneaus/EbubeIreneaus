@@ -68,6 +68,20 @@ From intelligent agents to workflow automation, I turn manual, time-consuming pr
 
 ## 🚀 Featured Projects
 
+### 📣 LinkedIn AI Content Automation Bot *(Latest)*
+> A fully automated LinkedIn posting system that uses Google Gemini AI to generate compelling, human-like posts and publishes them on a daily schedule — so you build a professional brand without lifting a finger.
+
+**What it does:**
+- 🧠 Generates professional LinkedIn posts using Gemini AI based on predefined topics
+- 📅 Auto-schedules and publishes one post per day — never over-posts
+- 🔐 Manages LinkedIn OAuth 2.0 authentication and auto-alerts you via email when re-auth is needed
+- 🗄️ Logs all post history in PostgreSQL to prevent duplicates
+
+**Stack:** Python · FastAPI · Google Gemini · PostgreSQL · Resend API  
+**Impact:** Eliminates the mental load of content creation — your LinkedIn stays active while you focus on work
+
+---
+
 ### 🎯 AI Lead Qualification & Automated Reply System
 > An intelligent agent that qualifies incoming leads based on custom criteria and automatically sends personalized responses — removing the need for manual email triage entirely.
 
@@ -88,9 +102,11 @@ From intelligent agents to workflow automation, I turn manual, time-consuming pr
 
 <div align="center">
 
-![Ebube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbubeIreneaus&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4500&icon_color=FF4500)
+![Ebube's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EbubeIreneaus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbubeIreneaus&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF4500)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EbubeIreneaus&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=EbubeIreneaus&theme=tokyonight&hide_border=true)
 
 </div>
 
