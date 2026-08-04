@@ -10,12 +10,11 @@
 ╚══════╝╚═════╝  ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
-### Hi, I'm Ebube Irenaeus 👋
-**Python AI & Automation Engineer**
+### Hi, I'm Ebube Ireneaus 👋
+**Fullstack Engineer — Vue/Nuxt/Next + Python/FastAPI**
 
-*I build systems that work while you sleep.*
+*I build production-grade web systems, end to end — frontend, backend, infra, and the AI layer when it's needed.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ireneaus)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EbubeIreneaus)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://ebube.zephyops.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireneaus.ebube@gmail.com)
@@ -26,75 +25,89 @@
 
 ## 🧠 What I Do
 
-> *Business owners shouldn't be drowning in repetitive tasks — they should be building.*
-> *That's why I automate the rest.*
+I design and ship **full production systems** — not tutorials, not CRUD demos. Auth with refresh tokens, background workers, rate limiting, CI/CD, real payment integrations, and tests that actually run in a pipeline.
 
-I design and build **AI-powered automation systems** that eliminate repetitive work from business operations.
-From intelligent agents to workflow automation, I turn manual, time-consuming processes into systems that run themselves.
-
-- 🤖 **AI Agents** that qualify leads, respond to customers, and make decisions autonomously
-- 🔍 **Web Scraping & Market Intelligence** bots that gather and compare real-time data
-- ⚙️ **Workflow Automation** that connects your tools and runs your processes 24/7
-- 🚀 **FastAPI backends** that make your automation accessible via clean, production-ready APIs
+- 🖥️ **Fullstack web apps** — Vue/Nuxt & Next on the frontend, FastAPI on the backend, wired together properly
+- 💳 **Payments & multi-tenant logic** — Stripe/Paystack integrations, per-vendor order splitting, scoped data access
+- ⚙️ **Infrastructure that survives production** — Docker, background job queues (ARQ/Redis), CI/CD via GitHub Actions, rate limiting, caching
+- 🤖 **AI/LLM integration where it earns its place** — LangChain agents, retrieval pipelines, and automation — built as a feature of a real product, not the whole pitch
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI & Automation**
+**Frontend**
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-6E40C9?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
-**Backend & APIs**
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white)
 
-**Scraping & Browser Automation**
+**AI / Automation**
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-6E40C9?style=flat-square&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+**Infra & Tooling**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📣 LinkedIn AI Content Automation Bot *(Latest)*
-> A fully automated LinkedIn posting system that uses Google Gemini AI to generate compelling, human-like posts and publishes them on a daily schedule — so you build a professional brand without lifting a finger.
+### 🛒 16vmart — Multivendor E-commerce Platform
+> A production-style multivendor marketplace where a single order spanning several stores automatically splits per store, so each vendor only ever sees their own products and sales.
 
 **What it does:**
-- 🧠 Generates professional LinkedIn posts using Gemini AI based on predefined topics
-- 📅 Auto-schedules and publishes one post per day — never over-posts
-- 🔐 Manages LinkedIn OAuth 2.0 authentication and auto-alerts you via email when re-auth is needed
-- 🗄️ Logs all post history in PostgreSQL to prevent duplicates
+- 🔐 JWT auth with refresh tokens, scoped so each store can only manage its own products (not a full multi-tenant system, but properly access-controlled)
+- 💳 Stripe payments with per-vendor order splitting on multi-store checkouts
+- ⚙️ Background job processing via ARQ, rate limiting via SlowAPI, Pydantic validation on every route
+- ✅ Tested with pytest (backend) and Playwright (frontend), deployed via GitHub Actions CI/CD
 
-**Stack:** Python · FastAPI · Google Gemini · PostgreSQL · Resend API  
-**Impact:** Eliminates the mental load of content creation — your LinkedIn stays active while you focus on work
-
----
-
-### 🎯 AI Lead Qualification & Automated Reply System
-> An intelligent agent that qualifies incoming leads based on custom criteria and automatically sends personalized responses — removing the need for manual email triage entirely.
-
-**Stack:** Python · LangChain · FastAPI · OpenAI  
-**Impact:** Eliminates manual lead screening and response delay
+**Stack:** Nuxt.js · FastAPI · Docker · Redis · ARQ · PostgreSQL  
+**Links:** [Repo](https://github.com/ebubeireneaus/16vmart) · [Live](https://16vmart.name.ng)
 
 ---
 
-### 📊 Market Price Comparison Bot
-> A web scraping bot that monitors competitor product prices across multiple websites and compares them against internal company pricing — giving businesses real-time market intelligence.
+### 🔗 Onyx — SaaS URL Shortener
+> Not a weekend clone — a shortener built like a real SaaS product, with custom domain support, visitor analytics, and tiered subscriptions.
 
-**Stack:** Python · Playwright · BeautifulSoup · FastAPI  
-**Impact:** Turns hours of manual research into instant automated reports
+**What it does:**
+- 🌐 Custom subdomain and custom domain/subdomain support with DNS TXT verification + CNAME
+- 📊 Visitor tracking by country, device, and IP
+- 💳 Paystack subscription billing with tiered permission access
+- ⚡ Redis caching and a background worker for async processing
+
+**Stack:** Python · FastAPI · PostgreSQL · Redis · Docker  
+**Repo:** [github.com/EbubeIreneaus/onyx](https://github.com/EbubeIreneaus/onyx)
+
+---
+
+### 🎯 AI Lead Operations — Backend + Dashboard
+> An agent-driven lead management system: polls email, extracts and qualifies leads, and grounds its responses by crawling and chunking a company's own website content for retrieval.
+
+**What it does:**
+- 📥 IMAP email polling with async processing via an ARQ/Redis queue
+- 🧠 LangChain + Google GenAI agent for lead qualification and grounded replies
+- 🕸️ Website crawler (BeautifulSoup) that chunks page content for retrieval-based grounding
+- 🖥️ Paired dashboard UI in Nuxt 3, Tailwind, shadcn-nuxt, and Pinia
+
+**Stack:** FastAPI · async SQLAlchemy · PostgreSQL · ARQ/Redis · LangChain · Nuxt 3  
+**Links:** [Backend](https://github.com/EbubeIreneaus/AI-Powered-Lead-Operations-Backend) · [Dashboard](https://github.com/EbubeIreneaus/AI-Powered-Lead-Operations-UI)
 
 ---
 
@@ -114,19 +127,14 @@ From intelligent agents to workflow automation, I turn manual, time-consuming pr
 
 ## 💼 Open to Work
 
-I'm currently open to **remote roles** with startups, e-commerce companies, or any team that wants to stop doing manually what a machine can do better.
+I'm looking for a **remote fullstack role** — startups, product teams, or companies that need someone who can own a feature from database schema to deployed UI.
 
-**What I'm looking for:**
-- Remote-first teams
-- Problems worth automating
-- A place to grow while delivering real value
-
-📬 Reach me at **ireneaus.ebube@gmail.com** or connect on [LinkedIn](https://linkedin.com/in/ireneaus)
+📬 **ireneaus.ebube@gmail.com** · [Portfolio](https://ebube.zephyops.com)
 
 ---
 
 <div align="center">
 
-*"The best automation is the one that makes people forget it's there."*
+*Six years freelancing taught me to ship things that actually work in production — not just in a demo.*
 
 </div>
