@@ -97,17 +97,21 @@ I design and ship **full production systems** — not tutorials, not CRUD demos.
 
 ---
 
-### 🎯 AI Lead Operations — Backend + Dashboard
-> An agent-driven lead management system: polls email, extracts and qualifies leads, and grounds its responses by crawling and chunking a company's own website content for retrieval.
+
+### 🤖 Lumio — Autonomous AI Lead Qualification & Dispatch Platform
+> A production-grade B2B lead qualification system: inbound leads are auto-qualified and answered using a RAG pipeline grounded in a company's own documents, with real-time dashboard updates and human review for low-confidence responses.
 
 **What it does:**
-- 📥 IMAP email polling with async processing via an ARQ/Redis queue
-- 🧠 LangChain + Google GenAI agent for lead qualification and grounded replies
-- 🕸️ Website crawler (BeautifulSoup) that chunks page content for retrieval-based grounding
-- 🖥️ Paired dashboard UI in Nuxt 3, Tailwind, shadcn-nuxt, and Pinia
+- 📚 RAG engine on native PostgreSQL `pgvector` — ingests PDF/DOCX/TXT/MD, chunks with paragraph-aware splitting (1000 chars, 200-char overlap), grounds every AI response in retrieved context
+- ⚡ Redis Pub/Sub event bridge pushing real-time WebSocket updates (<10ms) from background workers to the Nuxt dashboard
+- 🛡️ Human-in-the-loop review queue — low-confidence or sensitive AI replies are staged as `PENDING` for operator approval before dispatch via Resend
+- 🐳 Fully containerized: 5 services (API, worker, Postgres, Redis, dashboard) via Docker Compose
 
-**Stack:** FastAPI · async SQLAlchemy · PostgreSQL · ARQ/Redis · LangChain · Nuxt 3  
-**Links:** [Backend](https://github.com/EbubeIreneaus/AI-Powered-Lead-Operations-Backend) · [Dashboard](https://github.com/EbubeIreneaus/AI-Powered-Lead-Operations-UI)
+**Stack:** FastAPI · Nuxt 3 (SSR) · PostgreSQL (pgvector) · Redis Pub/Sub · Arq · Google Gemini  
+**Repo:** [github.com/EbubeIreneaus/lumio](https://github.com/EbubeIreneaus/lumio)  
+**Note:** no live hosted demo — the AI pipeline runs on a rate-limited free-tier key, so the repo is built to be cloned and run locally with your own API key. The dashboard's analytics section is a known work-in-progress.
+
+---
 
 ---
 
