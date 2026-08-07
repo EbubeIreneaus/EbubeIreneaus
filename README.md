@@ -133,7 +133,7 @@ I design and ship **full production systems** — not tutorials, not CRUD demos.
 
 I'm looking for a **remote fullstack role** — startups, product teams, or companies that need someone who can own a feature from database schema to deployed UI.
 
-📬 **ireneaus.ebube@gmail.com** · [Portfolio](https://ebube.zephyops.com)
+📬 **ireneaus.ebube@gmail.com** · [Portfolio](https://ebube-dev.netlify.app)
 
 ---
 
