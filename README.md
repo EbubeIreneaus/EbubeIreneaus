@@ -16,7 +16,7 @@
 *I build production-grade web systems, end to end — frontend, backend, infra, and the AI layer when it's needed.*
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EbubeIreneaus)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://ebube.zephyops.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4500?style=for-the-badge&logo=firefox&logoColor=white)](https://ebube-dev.netlify.app)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ireneaus.ebube@gmail.com)
 
 </div>
